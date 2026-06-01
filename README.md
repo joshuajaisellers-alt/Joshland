@@ -1,2 +1,2 @@
-# Joshland
-Who knows
+# Epistolary
+Letterwritting App for Joshua Sellers
